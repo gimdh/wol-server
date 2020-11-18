@@ -4,6 +4,10 @@ Wake-On-LAN Web UI server powered by **Node.js** backend and **Vue.js** frontend
 
 * * *
 
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/36066149/99530577-da7f7300-29e4-11eb-967e-a41b40450a88.png)
+
+
 ## Install procedure
 1. Install and build wol-front
 ```bash
